@@ -1,5 +1,8 @@
 # QQ.js: Wrangle asynchronicity with lightweight execution queues
 
+_Note: As a natively-supported alternative to QQ.js, check out
+ES6 Promises!__
+
 QQ provides lightweight synchronous queues to help developers who
 QQ about callback hell. It transforms complicated, asynchronous code
 to be:
